@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiresponseApplication<apiresponse>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.response.apiresponse.ApiresponseApplication",
+            "projectName": "apiresponse",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
